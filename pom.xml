@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mycompany</groupId>
 	<artifactId>car2go-connector_user</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>mule</packaging>
 	<name>Mule car2go-connector_user Application</name>
 
@@ -132,12 +132,12 @@
 		<dependency>
             <groupId>com.humegatech</groupId>
             <artifactId>car2go-connector</artifactId>
-            <version>1.1.3-SNAPSHOT</version>
+            <version>1.3.0</version>
         </dependency>
         <dependency>
             <groupId>com.humegatech</groupId>
             <artifactId>car2gosling</artifactId>
-            <version>1.1.2-SNAPSHOT</version>
+            <version>1.1.2</version>
         </dependency>
 	    <dependency>
             <groupId>org.mule.modules</groupId>
